@@ -53,7 +53,7 @@ const paket = [
   },
   {
       name: "J",
-      mapel: ["Bahasa Jepang", "Bahasa Inggris Tingkat Lanjut", "Bahasa Indonesia Tingkat Lanjut", "Sosiologi"]
+      mapel: ["Bahasa Jepang", "Bahasa Inggris Tingkat Lanjut", "Matematika Tingkat Lanjut", "Sosiologi"]
   },
   {
       name: 'K',
